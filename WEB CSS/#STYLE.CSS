@@ -1,0 +1,10 @@
+h2 {
+    font-family: sans;
+    color:blue;
+    font-size: 35px;
+}
+/* ini untuk background blue ini komentar */
+
+.bg_blue{
+background-color :blue;
+}
